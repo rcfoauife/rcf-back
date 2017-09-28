@@ -1,0 +1,10 @@
+@extends('layouts.app')
+@section('content')
+
+  <div class="formContainer">  
+     <div class="well">
+        <h1>thank you for your response</h1>
+        <a href="#">you can return back to edit your details here</a>
+     </div>   
+  </div>
+@endsection
